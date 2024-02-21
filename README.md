@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Smritisoni17
 - 👀 I’m interested in learning new and better approaches  and technologies  that help me to do a better job in this fun and interesting technical environment.
-- 🌱 I’m currently learning JAVA ,DBMS
+- 🌱 I’m currently learning JAVA ,HTML& CSS
 - 💞️ I’m looking to collaborate on any .
 - 📫 How to reach me smritisoni1708@gmail.com.
 
